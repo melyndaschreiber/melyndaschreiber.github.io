@@ -18,18 +18,36 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "Machine Learning and Data Science"
+  
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "Machine Learning and Data Science"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = "Design of Experiments and Graduate Level Statistics"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "brain"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "EEG"
+  description = "Neurooscillations correlated with reaching activities"  
+
+[[feature]]
+  icon = "accessible-icon"
+  icon_pack = "fab"
+  name = "Accessibility"
+  description = "Making life accessible for others."  
+  
+[[feature]]
+  icon = "gamepad"
+  icon_pack = "fas"
+  name = "Data Mining Video Games"
+  description = "Data Mining video games through deep learning"  
 
 +++
