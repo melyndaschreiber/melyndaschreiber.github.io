@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>admin on Academic</title>
+    <link>https://melyndaschreiber.github.io/authors/admin/</link>
+    <description>Recent content in admin on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://melyndaschreiber.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://melyndaschreiber.github.io/author/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://melyndaschreiber.github.io/author/admin/</guid>
+      <description>I am a Ph.D. candidate at the Ergonomics and Safety Lab and the Neurorehabilitation Informatics Research Group at the University of Utah. My current work involves the joint collaboration of three professor Dr.Andrew Merryweather, Dr.Keith Lohse and Dr.Tucker Hermans. My passions include solving unique problems with machine learning and using my skills to help those with disabilities. My current research includes investigating user intent to reach, direction of reaching and cancellation of reach intent.</description>
+    </item>
+    
+  </channel>
+</rss>

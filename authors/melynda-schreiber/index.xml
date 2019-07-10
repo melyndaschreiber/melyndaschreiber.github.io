@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Melynda Schreiber on Academic</title>
+    <link>https://melyndaschreiber.github.io/authors/melynda-schreiber/</link>
+    <description>Recent content in Melynda Schreiber on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Sep 2015 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="https://melyndaschreiber.github.io/authors/melynda-schreiber/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Influence of Frequency Bands in EEG Signal to Predict User Intent</title>
+      <link>https://melyndaschreiber.github.io/publication/ieee_ner19/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 -0600</pubDate>
+      
+      <guid>https://melyndaschreiber.github.io/publication/ieee_ner19/</guid>
+      <description> Supplementary notes can be added here, including code and math.   </description>
+    </item>
+    
+    <item>
+      <title>Real-World Performance: Physical Activity, Play, and Object-Related Behaviors of Toddlers With and Without Disabilities.</title>
+      <link>https://melyndaschreiber.github.io/publication/logan2015/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 -0600</pubDate>
+      
+      <guid>https://melyndaschreiber.github.io/publication/logan2015/</guid>
+      <description> Supplementary notes can be added here, including code and math.   </description>
+    </item>
+    
+    <item>
+      <title>Power-up: exploration and play in a novel modified ride-on car for standing</title>
+      <link>https://melyndaschreiber.github.io/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 -0600</pubDate>
+      
+      <guid>https://melyndaschreiber.github.io/publication/conference-paper/</guid>
+      <description> Supplementary notes can be added here, including code and math.   </description>
+    </item>
+    
+  </channel>
+</rss>
