@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>Melynda Schreiber</title>
     <link>https://melyndaschreiber.github.io/</link>
-    <description>Recent content on Academic</description>
+    <description>Recent content on Melynda Schreiber</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Sep 2015 00:00:00 -0600</lastBuildDate>
@@ -19,7 +19,7 @@
       <guid>https://melyndaschreiber.github.io/publication/ieee_ner19/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.
+    Now available in the IEEE database.
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
@@ -54,84 +54,69 @@
     </item>
     
     <item>
-      <title>Factorial Tensile Strength Investigation of 3D Printed Parts</title>
-      <link>https://melyndaschreiber.github.io/projects-copy/tensile_tests/</link>
-      <pubDate>Sat, 27 Apr 2013 00:00:00 -0600</pubDate>
-      
-      <guid>https://melyndaschreiber.github.io/projects-copy/tensile_tests/</guid>
-      <description>&lt;p&gt;Blah di blah di blah.&lt;/p&gt;
-
-&lt;p&gt;#
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;agile2-2.jpg&#34; /&gt;
-
-
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Cheshm-e-Chabok 2-DOF parallel robot.&lt;/h4&gt;
-  
-&lt;/figcaption&gt;
-
-&lt;/figure&gt;
-#
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;agile2-11.jpg&#34; /&gt;
-
-
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;CAD model of Cheshm-e-Chabok 2-DOF parallel robot.&lt;/h4&gt;
-  
-&lt;/figcaption&gt;
-
-&lt;/figure&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Factorial Tensile Strength Investigation of 3D Printed Parts</title>
+      <title>3D Printing Tensile Testing</title>
       <link>https://melyndaschreiber.github.io/projects/tensile_tests/</link>
       <pubDate>Sat, 27 Apr 2013 00:00:00 -0600</pubDate>
       
       <guid>https://melyndaschreiber.github.io/projects/tensile_tests/</guid>
-      <description>&lt;p&gt;Blah di blah di blah.&lt;/p&gt;
-
-&lt;p&gt;#
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;agile2-2.jpg&#34; /&gt;
-
-
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Cheshm-e-Chabok 2-DOF parallel robot.&lt;/h4&gt;
-  
-&lt;/figcaption&gt;
-
-&lt;/figure&gt;
-#
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;agile2-11.jpg&#34; /&gt;
-
-
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;CAD model of Cheshm-e-Chabok 2-DOF parallel robot.&lt;/h4&gt;
-  
-&lt;/figcaption&gt;
-
-&lt;/figure&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Fused Deposit Modeling, or 3D printing has revolutionized the way ideas move from concept to reality. The goal of this work was to determine if the 3D printing factors such as solid layers, wall thickness, fill density and print material have a significant effect on the strength properties of a 3D part. A factorial analysis shows that the number of layers used to make a part as well as the thickness of the walls of a part play a significant role in the parts tensile strength. Additionally, predictive models were developed for the maximum load a 3d printed part could withstand before yielding and the modulus of the part, depending on the material composition of the part and several other factors.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Thumb to Hold</title>
+      <link>https://melyndaschreiber.github.io/volunteering/thumb/</link>
+      <pubDate>Sat, 27 Apr 2013 00:00:00 -0600</pubDate>
+      
+      <guid>https://melyndaschreiber.github.io/volunteering/thumb/</guid>
+      <description>&lt;p&gt;Under the guidance of Thomas, I created a 3D Printed thumb to help a woman
+perform activities of daily living. The material was printed with high strength,
+high heat resistance so that it could withstand heat coming from the oven and
+other sources.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Insole for the Soul</title>
+      <link>https://melyndaschreiber.github.io/volunteering/insoles/</link>
+      <pubDate>Sat, 27 Apr 2013 00:00:00 -0600</pubDate>
+      
+      <guid>https://melyndaschreiber.github.io/volunteering/insoles/</guid>
+      <description>&lt;p&gt;Under the guidance of Jan Black, I created a 3D Printed heel lift to help
+stabilize the ankle of Kendal Levine, an LDS missionary hit by a car overseas.
+She wanted to wear her church shoes again and asked if could help. I designed
+and printed a soft custom heel lift which was able to inserted into shoes. These
+shoes were the first shoes with stability that she had worn without her braces.
+Click on the link to her stand for the first time unassisted since her accident.
+You can see me sitting down in the background at 3:30.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lessons From A Neck Brace</title>
+      <link>https://melyndaschreiber.github.io/volunteering/neck_brace/</link>
+      <pubDate>Sat, 27 Apr 2013 00:00:00 -0600</pubDate>
+      
+      <guid>https://melyndaschreiber.github.io/volunteering/neck_brace/</guid>
+      <description>&lt;p&gt;Under the guidance of Dr.Andrew Merryweather, I created a 3D Printed neck brace
+to prevent a child from breaking their neck. We scanned the child&amp;rsquo;s neck with a
+3D scanner. The data was imported into a Meshmixer to create a digital human. An
+exoskeleton of the subhect was created to form a brace for the neck.The project was not successful, but
+it pointed out major problems that healthcare will need to overcome to advance
+prosthetics and orthotics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Measure Vibration Risk</title>
+      <link>https://melyndaschreiber.github.io/projects/vibration/</link>
+      <pubDate>Sat, 27 Apr 2013 00:00:00 -0600</pubDate>
+      
+      <guid>https://melyndaschreiber.github.io/projects/vibration/</guid>
+      <description>&lt;p&gt;Wrote a labview script to collect accelerometer data with the Hand Arm Vibration
+Meter (HVM1000). I then quantified the exposure time limits for 4, 6 and 8 hours.
+I used weighting and transfer functions to calculate the maximum transient
+vibration value (MTVV) adn the power vibration dose value (VDV).&lt;/p&gt;
 </description>
     </item>
     

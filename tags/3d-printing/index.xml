@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3D Printing on Melynda Schreiber</title>
+    <link>https://melyndaschreiber.github.io/tags/3d-printing/</link>
+    <description>Recent content in 3D Printing on Melynda Schreiber</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Apr 2013 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="https://melyndaschreiber.github.io/tags/3d-printing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3D Printing Tensile Testing</title>
+      <link>https://melyndaschreiber.github.io/projects/tensile_tests/</link>
+      <pubDate>Sat, 27 Apr 2013 00:00:00 -0600</pubDate>
+      
+      <guid>https://melyndaschreiber.github.io/projects/tensile_tests/</guid>
+      <description>Factorial Tensile Strength Investigation of 3D Printed Parts</description>
+    </item>
+    
+    <item>
+      <title>A Thumb to Hold</title>
+      <link>https://melyndaschreiber.github.io/volunteering/thumb/</link>
+      <pubDate>Sat, 27 Apr 2013 00:00:00 -0600</pubDate>
+      
+      <guid>https://melyndaschreiber.github.io/volunteering/thumb/</guid>
+      <description>Collaborating with Occupational Therapist to 3D Scan and Print Prosthetic Thumb</description>
+    </item>
+    
+    <item>
+      <title>Insole for the Soul</title>
+      <link>https://melyndaschreiber.github.io/volunteering/insoles/</link>
+      <pubDate>Sat, 27 Apr 2013 00:00:00 -0600</pubDate>
+      
+      <guid>https://melyndaschreiber.github.io/volunteering/insoles/</guid>
+      <description>Collaborating with Physical Therapist to 3D Print Soft Insoles for Stability in the Ankle</description>
+    </item>
+    
+    <item>
+      <title>Lessons From A Neck Brace</title>
+      <link>https://melyndaschreiber.github.io/volunteering/neck_brace/</link>
+      <pubDate>Sat, 27 Apr 2013 00:00:00 -0600</pubDate>
+      
+      <guid>https://melyndaschreiber.github.io/volunteering/neck_brace/</guid>
+      <description>From 3D Scan to Digital Human to Neck Brace</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Melynda Schreiber on Academic</title>
+    <title>Melynda Schreiber</title>
     <link>https://melyndaschreiber.github.io/authors/melynda-schreiber/</link>
-    <description>Recent content in Melynda Schreiber on Academic</description>
+    <description>Recent content on Melynda Schreiber</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Sep 2015 00:00:00 -0600</lastBuildDate>
@@ -17,7 +17,7 @@
       <pubDate>Tue, 01 Sep 2015 00:00:00 -0600</pubDate>
       
       <guid>https://melyndaschreiber.github.io/publication/ieee_ner19/</guid>
-      <description> Supplementary notes can be added here, including code and math.   </description>
+      <description> Now available in the IEEE database.   </description>
     </item>
     
     <item>

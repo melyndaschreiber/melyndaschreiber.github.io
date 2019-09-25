@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Academic</title>
+    <title>Tags on Melynda Schreiber</title>
     <link>https://melyndaschreiber.github.io/tags/</link>
-    <description>Recent content in Tags on Academic</description>
+    <description>Recent content in Tags on Melynda Schreiber</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Sep 2015 00:00:00 -0600</lastBuildDate>
@@ -12,11 +12,38 @@
     
     
     <item>
+      <title>EEG user intent</title>
+      <link>https://melyndaschreiber.github.io/tags/eeg-user-intent/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 -0600</pubDate>
+      
+      <guid>https://melyndaschreiber.github.io/tags/eeg-user-intent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Source Themes</title>
       <link>https://melyndaschreiber.github.io/tags/source-themes/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 -0600</pubDate>
       
       <guid>https://melyndaschreiber.github.io/tags/source-themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Printing</title>
+      <link>https://melyndaschreiber.github.io/tags/3d-printing/</link>
+      <pubDate>Sat, 27 Apr 2013 00:00:00 -0600</pubDate>
+      
+      <guid>https://melyndaschreiber.github.io/tags/3d-printing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safety</title>
+      <link>https://melyndaschreiber.github.io/tags/safety/</link>
+      <pubDate>Sat, 27 Apr 2013 00:00:00 -0600</pubDate>
+      
+      <guid>https://melyndaschreiber.github.io/tags/safety/</guid>
       <description></description>
     </item>
     

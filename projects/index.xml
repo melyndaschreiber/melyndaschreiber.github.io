@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Academic</title>
+    <title>Projects on Melynda Schreiber</title>
     <link>https://melyndaschreiber.github.io/projects/</link>
-    <description>Recent content in Projects on Academic</description>
+    <description>Recent content in Projects on Melynda Schreiber</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 27 Apr 2013 00:00:00 -0600</lastBuildDate>
@@ -12,12 +12,21 @@
     
     
     <item>
-      <title>Factorial Tensile Strength Investigation of 3D Printed Parts</title>
+      <title>3D Printing Tensile Testing</title>
       <link>https://melyndaschreiber.github.io/projects/tensile_tests/</link>
       <pubDate>Sat, 27 Apr 2013 00:00:00 -0600</pubDate>
       
       <guid>https://melyndaschreiber.github.io/projects/tensile_tests/</guid>
-      <description>Fused Deposit Modeling, or 3D printing has revolutionized the way ideas move from concept to reality. The goal of this work was to determine if the 3D printing factors such as solid layers, wall thickness, fill density and print material have a significant effect on the strength properties of a 3D part. A factorial analysis shows that the number of layers used to make a part as well as the thickness of the walls of a part play a significant role in the parts tensile strength. Additionally, predictive models were developed for the maximum load a 3d printed part could withstand before yielding and the modulus of the part, depending on the material composition of the part and several other factors.</description>
+      <description>Factorial Tensile Strength Investigation of 3D Printed Parts</description>
+    </item>
+    
+    <item>
+      <title>Measure Vibration Risk</title>
+      <link>https://melyndaschreiber.github.io/projects/vibration/</link>
+      <pubDate>Sat, 27 Apr 2013 00:00:00 -0600</pubDate>
+      
+      <guid>https://melyndaschreiber.github.io/projects/vibration/</guid>
+      <description>Using Labview and Laplace Transforms to Measure Risk of Power Tools</description>
     </item>
     
   </channel>
